@@ -12,8 +12,8 @@
 <h2 id="imagens">:computer: Imagens Desktop</h2>
 
 <p float="left">
-  <img alt="inicio" src="https://user-images.githubusercontent.com/78452566/141491359-67be0b92-8b77-4738-a4a9-527496683bd1.jpg" width="214" hspace="10"/>
-  <img alt="fim" src="https://user-images.githubusercontent.com/78452566/141491356-c9f5fa3f-d888-4f7e-8274-dee9725add58.jpg" width="214" hspace="10"/>    
+  <img alt="inicio" src="https://user-images.githubusercontent.com/78452566/141491359-67be0b92-8b77-4738-a4a9-527496683bd1.jpg"  hspace="10"/>
+  <img alt="fim" src="https://user-images.githubusercontent.com/78452566/141491356-c9f5fa3f-d888-4f7e-8274-dee9725add58.jpg"  hspace="10"/>    
 </p>
 
 <h2 id="imagens">:iphone: Imagens Mobile</h2>
